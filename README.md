@@ -4,9 +4,9 @@
 -->
 
 <h1 align="center">
-  <img src="https://proboy.vercel.app/assets/9675d829-923c-4e09-b87a-a42c23861493%20(1).svg" width="80" style="border-radius: 50%;" alt="ProBoy Logo" />
+  <img src="https://ibb.co/Kj0BjtHR" width="80" style="border-radius: 50%;" alt="M Usman Chachar" />
   <br>
-  Hi, I'm <span style="background: linear-gradient(135deg,#00d4ff,#7e00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Shahan Ali</span> (ProBoy)
+  Hi, I'm <span style="background: linear-gradient(135deg,#00d4ff,#7e00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Muhammad Usman Chachar</span> (US MODS MD OWNER)
 </h1>
 
 <p align="center">
